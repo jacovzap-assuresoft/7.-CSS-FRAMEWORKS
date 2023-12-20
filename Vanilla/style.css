@@ -81,11 +81,11 @@ body {
 
 @media (width >= 767px) {
     .gallery {
-        width: 92vw;
+        width: 80vw;
     }
 
     .card {
-        width: 45vw;
+        width: 39vw;
         height: 48vw;
     }
 }
